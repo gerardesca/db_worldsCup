@@ -15,7 +15,7 @@ numbers = list()    #Numbers List
 #Names and Positions
 for i in squad.find_all('div', class_ = 'fi-p__info'):
     name = i.find('span', class_ = 'fi-p__nLonger').text 
-    pos = i.find('div', class_ = 'fi-p__info--role').text
+    pos = i.find('div', class_ = 'fi-p__ info--role').text
     names.append(name)
     positions.append(pos.replace('\r\n', '').replace('                ', ''))
 
