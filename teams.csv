@@ -1,0 +1,457 @@
+0,Argentina
+1,Australia
+2,Belgium
+3,Brazil
+4,Colombia
+5,Costa Rica
+6,Croatia
+7,Denmark
+8,Egypt
+9,England
+10,France
+11,Germany
+12,Iceland
+13,IR Iran
+14,Japan
+15,Korea Republic
+16,Mexico
+17,Morocco
+18,Nigeria
+19,Panama
+20,Peru
+21,Poland
+22,Portugal
+23,Russia
+24,Saudi Arabia
+25,Senegal
+26,Serbia
+27,Spain
+28,Sweden
+29,Switzerland
+30,Tunisia
+31,Uruguay
+32,Algeria
+33,Argentina
+34,Australia
+35,Belgium
+36,Bosnia and Herzegovina
+37,Brazil
+38,Cameroon
+39,Chile
+40,Colombia
+41,Costa Rica
+42,Côte d'Ivoire
+43,Croatia
+44,Ecuador
+45,England
+46,France
+47,Germany
+48,Ghana
+49,Greece
+50,Honduras
+51,IR Iran
+52,Italy
+53,Japan
+54,Korea Republic
+55,Mexico
+56,Netherlands
+57,Nigeria
+58,Portugal
+59,Russia
+60,Spain
+61,Switzerland
+62,Uruguay
+63,USA
+64,Algeria
+65,Argentina
+66,Australia
+67,Brazil
+68,Cameroon
+69,Chile
+70,Côte d'Ivoire
+71,Denmark
+72,England
+73,France
+74,Germany
+75,Ghana
+76,Greece
+77,Honduras
+78,Italy
+79,Japan
+80,Korea DPR
+81,Korea Republic
+82,Mexico
+83,Netherlands
+84,New Zealand
+85,Nigeria
+86,Paraguay
+87,Portugal
+88,Serbia
+89,Slovakia
+90,Slovenia
+91,South Africa
+92,Spain
+93,Switzerland
+94,Uruguay
+95,USA
+96,Angola
+97,Argentina
+98,Australia
+99,Brazil
+100,Costa Rica
+101,Côte d'Ivoire
+102,Croatia
+103,Czech Republic
+104,Ecuador
+105,England
+106,France
+107,Germany
+108,Ghana
+109,IR Iran
+110,Italy
+111,Japan
+112,Korea Republic
+113,Mexico
+114,Netherlands
+115,Paraguay
+116,Poland
+117,Portugal
+118,Saudi Arabia
+119,Serbia and Montenegro
+120,Spain
+121,Sweden
+122,Switzerland
+123,Togo
+124,Trinidad and Tobago
+125,Tunisia
+126,Ukraine
+127,USA
+128,Argentina
+129,Belgium
+130,Brazil
+131,Cameroon
+132,China PR
+133,Costa Rica
+134,Croatia
+135,Denmark
+136,Ecuador
+137,England
+138,France
+139,Germany
+140,Italy
+141,Japan
+142,Korea Republic
+143,Mexico
+144,Nigeria
+145,Paraguay
+146,Poland
+147,Portugal
+148,Republic of Ireland
+149,Russia
+150,Saudi Arabia
+151,Senegal
+152,Slovenia
+153,South Africa
+154,Spain
+155,Sweden
+156,Tunisia
+157,Turkey
+158,Uruguay
+159,USA
+160,Argentina
+161,Austria
+162,Belgium
+163,Brazil
+164,Bulgaria
+165,Cameroon
+166,Chile
+167,Colombia
+168,Croatia
+169,Denmark
+170,England
+171,France
+172,Germany
+173,IR Iran
+174,Italy
+175,Jamaica
+176,Japan
+177,Korea Republic
+178,Mexico
+179,Morocco
+180,Netherlands
+181,Nigeria
+182,Norway
+183,Paraguay
+184,Romania
+185,Saudi Arabia
+186,Scotland
+187,South Africa
+188,Spain
+189,Tunisia
+190,USA
+191,Yugoslavia
+192,Argentina
+193,Belgium
+194,Bolivia
+195,Brazil
+196,Bulgaria
+197,Cameroon
+198,Colombia
+199,Germany
+200,Greece
+201,Italy
+202,Korea Republic
+203,Mexico
+204,Morocco
+205,Netherlands
+206,Nigeria
+207,Norway
+208,Republic of Ireland
+209,Romania
+210,Russia
+211,Saudi Arabia
+212,Spain
+213,Sweden
+214,Switzerland
+215,USA
+216,Argentina
+217,Austria
+218,Belgium
+219,Brazil
+220,Cameroon
+221,Colombia
+222,Costa Rica
+223,Czechoslovakia
+224,Egypt
+225,England
+226,Germany FR
+227,Italy
+228,Korea Republic
+229,Netherlands
+230,Republic of Ireland
+231,Romania
+232,Scotland
+233,Soviet Union
+234,Spain
+235,Sweden
+236,United Arab Emirates
+237,Uruguay
+238,USA
+239,Yugoslavia
+240,Algeria
+241,Argentina
+242,Belgium
+243,Brazil
+244,Bulgaria
+245,Canada
+246,Denmark
+247,England
+248,France
+249,Germany FR
+250,Hungary
+251,Iraq
+252,Italy
+253,Korea Republic
+254,Mexico
+255,Morocco
+256,Northern Ireland
+257,Paraguay
+258,Poland
+259,Portugal
+260,Scotland
+261,Soviet Union
+262,Spain
+263,Uruguay
+264,Algeria
+265,Argentina
+266,Austria
+267,Belgium
+268,Brazil
+269,Cameroon
+270,Chile
+271,Czechoslovakia
+272,El Salvador
+273,England
+274,France
+275,Germany FR
+276,Honduras
+277,Hungary
+278,Italy
+279,Kuwait
+280,New Zealand
+281,Northern Ireland
+282,Peru
+283,Poland
+284,Scotland
+285,Soviet Union
+286,Spain
+287,Yugoslavia
+288,Argentina
+289,Austria
+290,Brazil
+291,France
+292,Germany FR
+293,Hungary
+294,IR Iran
+295,Italy
+296,Mexico
+297,Netherlands
+298,Peru
+299,Poland
+300,Scotland
+301,Spain
+302,Sweden
+303,Tunisia
+304,Argentina
+305,Australia
+306,Brazil
+307,Bulgaria
+308,Chile
+309,German DR
+310,Germany FR
+311,Haiti
+312,Italy
+313,Netherlands
+314,Poland
+315,Scotland
+316,Sweden
+317,Uruguay
+318,Yugoslavia
+319,Zaire
+320,Belgium
+321,Brazil
+322,Bulgaria
+323,Czechoslovakia
+324,El Salvador
+325,England
+326,Germany FR
+327,Israel
+328,Italy
+329,Mexico
+330,Morocco
+331,Peru
+332,Romania
+333,Soviet Union
+334,Sweden
+335,Uruguay
+336,Argentina
+337,Brazil
+338,Bulgaria
+339,Chile
+340,England
+341,France
+342,Germany FR
+343,Hungary
+344,Italy
+345,Korea DPR
+346,Mexico
+347,Portugal
+348,Soviet Union
+349,Spain
+350,Switzerland
+351,Uruguay
+352,Argentina
+353,Brazil
+354,Bulgaria
+355,Chile
+356,Colombia
+357,Czechoslovakia
+358,England
+359,Germany FR
+360,Hungary
+361,Italy
+362,Mexico
+363,Soviet Union
+364,Spain
+365,Switzerland
+366,Uruguay
+367,Yugoslavia
+368,Argentina
+369,Austria
+370,Brazil
+371,Czechoslovakia
+372,England
+373,France
+374,Germany FR
+375,Hungary
+376,Mexico
+377,Northern Ireland
+378,Paraguay
+379,Scotland
+380,Soviet Union
+381,Sweden
+382,Wales
+383,Yugoslavia
+384,Austria
+385,Belgium
+386,Brazil
+387,Czechoslovakia
+388,England
+389,France
+390,Germany FR
+391,Hungary
+392,Italy
+393,Korea Republic
+394,Mexico
+395,Scotland
+396,Switzerland
+397,Turkey
+398,Uruguay
+399,Yugoslavia
+400,Bolivia
+401,Brazil
+402,Chile
+403,England
+404,Italy
+405,Mexico
+406,Paraguay
+407,Spain
+408,Sweden
+409,Switzerland
+410,Uruguay
+411,USA
+412,Yugoslavia
+413,Belgium
+414,Brazil
+415,Cuba
+416,Czechoslovakia
+417,Dutch East Indies
+418,France
+419,Germany
+420,Hungary
+421,Italy
+422,Netherlands
+423,Norway
+424,Poland
+425,Romania
+426,Sweden
+427,Switzerland
+428,Argentina
+429,Austria
+430,Belgium
+431,Brazil
+432,Czechoslovakia
+433,Egypt
+434,France
+435,Germany
+436,Hungary
+437,Italy
+438,Netherlands
+439,Romania
+440,Spain
+441,Sweden
+442,Switzerland
+443,USA
+444,Argentina
+445,Belgium
+446,Bolivia
+447,Brazil
+448,Chile
+449,France
+450,Mexico
+451,Paraguay
+452,Peru
+453,Romania
+454,Uruguay
+455,USA
+456,Yugoslavia
